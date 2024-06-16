@@ -1,0 +1,12 @@
+<!-- transaction-detail.component.html -->
+
+<div *ngIf="transaction">
+  <h2>Détails de la Transaction</h2>
+  <p><strong>ID:</strong> {{ transaction.id }}</p>
+  <p><strong>Montant:</strong> {{ transaction.amount | currency }}</p>
+  <p><strong>Solde:</strong> {{ transaction.balance | currency }}</p>
+  <p><strong>Libellé:</strong> {{ transaction.label }}</p>
+  <p><strong>Date:</strong> {{ transaction.date | date:'full' }}</p>
+  <p *ngIf="transaction.description"><strong>Description:</strong> {{ transaction.description }}</p>
+  <button (click)="goBack()">Retour</button>
+</div>

@@ -1,0 +1,11 @@
+<!-- app.component.html -->
+
+<header>
+  <p>{{ dateTimeService.currentDateTime$ | async | date: 'medium' }}</p>
+  <nav>
+    <a routerLink="/">Accueil</a>
+  </nav>
+</header>
+<main>
+  <router-outlet></router-outlet>
+</main>

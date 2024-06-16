@@ -1,0 +1,25 @@
+/* transaction-detail.component.css */
+
+/* Styles for paragraphs */
+p {
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Styles for buttons */
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

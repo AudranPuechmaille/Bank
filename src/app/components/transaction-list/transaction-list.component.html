@@ -1,0 +1,24 @@
+<!-- transaction-list.component.html -->
+
+<h2>Liste des Transactions</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th (click)="sortBy('id')">ID</th>
+      <th (click)="sortBy('amount')">Montant</th>
+      <th (click)="sortBy('balance')">Solde</th>
+      <th (click)="sortBy('label')">Libellé</th>
+      <th (click)="sortBy('date')">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let transaction of transactions" (click)="goToDetail(transaction.id)">
+      <td>{{ transaction.id }}</td>
+      <td>{{ transaction.amount | currency }}</td>
+      <td>{{ transaction.balance | currency }}</td>
+      <td>{{ transaction.label }}</td>
+      <td>{{ transaction.date | date:'short' }}</td>
+    </tr>
+  </tbody>
+</table>

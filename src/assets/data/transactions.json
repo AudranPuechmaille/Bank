@@ -1,0 +1,303 @@
+[
+	{
+		"id": "01-00",
+		"amount": 157.21,
+		"balance": 2657.21,
+		"label": "Intérêts",
+		"date": "2015-01-01T00:00+01:00"
+	},
+	{
+		"id": "01-01",
+		"amount": -152.36,
+		"balance": 2504.85,
+		"label": "Courses",
+		"date": "2015-01-01T15:32+01:00"
+	},
+	{
+		"id": "01-02",
+		"amount": -36.24,
+		"balance": 2468.61,
+		"label": "Restaurant",
+		"date": "2015-01-01T21:35+01:00"
+	},
+	{
+		"id": "01-03",
+		"amount": -750,
+		"balance": 1718.61,
+		"label": "Loyer",
+		"date": "2015-01-05T08:00+01:00"
+	},
+	{
+		"id": "01-04",
+		"amount": -134.28,
+		"balance": 1584.33,
+		"label": "Impôts",
+		"date": "2015-01-05T08:00+01:00"
+	},
+	{
+		"id": "01-05",
+		"amount": -45.50,
+		"balance": 1538.83,
+		"label": "EDF",
+		"date": "2015-01-05T08:00+01:00"
+	},
+	{
+		"id": "01-06",
+		"amount": -29.99,
+		"balance": 1508.84,
+		"label": "Internet",
+		"date": "2015-01-05T08:00+01:00"
+	},
+	{
+		"id": "01-07",
+		"amount": -19.99,
+		"balance": 1488.85,
+		"label": "Forfait mobile",
+		"date": "2015-01-05T08:00+01:00"
+	},
+	{
+		"id": "01-08",
+		"amount": -50,
+		"balance": 1438.85,
+		"label": "Don",
+		"date": "2015-01-15T15:00+01:00"
+	},
+	{
+		"id": "01-09",
+		"amount": -258.63,
+		"balance": 1180.22,
+		"label": "Courses",
+		"date": "2015-01-22T18:31+01:00"
+	},
+	{
+		"id": "01-10",
+		"amount": -31,
+		"balance": 1149.22,
+		"label": "Restaurant",
+		"date": "2015-01-25T22:12+01:00"
+	},
+	{
+		"id": "01-11",
+		"amount": -632.38,
+		"balance": 516.94,
+		"label": "Voyage",
+		"date": "2015-01-28T17:32+01:00"
+	},
+	{
+		"id": "01-12",
+		"amount": -153.62,
+		"balance": 363.32,
+		"label": "Courses",
+		"date": "2015-01-29T09:35+01:00"
+	},
+	{
+		"id": "01-98",
+		"amount": -363.32,
+		"balance": 0,
+		"label": "Épargne",
+		"date": "2015-01-31T00:00+01:00"
+	},
+	{
+		"id": "01-99",
+		"amount": 2500,
+		"balance": 2500,
+		"label": "Salaire",
+		"date": "2015-01-31T00:00+01:00"
+	},
+	{
+		"id": "02-00",
+		"amount": -12.28,
+		"balance": 2487.72,
+		"label": "Courses",
+		"date": "2015-02-01T17:45+01:00"
+	},
+	{
+		"id": "02-01",
+		"amount": -160.12,
+		"balance": 2327.60,
+		"label": "Courses",
+		"date": "2015-02-03T10:02+01:00"
+	},
+	{
+		"id": "02-02",
+		"amount": -750,
+		"balance": 1577.60,
+		"label": "Loyer",
+		"date": "2015-02-05T08:00+01:00"
+	},
+	{
+		"id": "02-03",
+		"amount": -134.28,
+		"balance": 1443.32,
+		"label": "Impôts",
+		"date": "2015-02-05T08:00+01:00"
+	},
+	{
+		"id": "02-04",
+		"amount": -45.50,
+		"balance": 1397.82,
+		"label": "EDF",
+		"date": "2015-02-05T08:00+01:00"
+	},
+	{
+		"id": "02-05",
+		"amount": -29.99,
+		"balance": 1367.83,
+		"label": "Internet",
+		"date": "2015-02-05T08:00+01:00"
+	},
+	{
+		"id": "02-06",
+		"amount": -19.99,
+		"balance": 1347.84,
+		"label": "Forfait mobile",
+		"date": "2015-02-05T08:00+01:00"
+	},
+	{
+		"id": "02-07",
+		"amount": -50,
+		"balance": 1297.84,
+		"label": "Don",
+		"date": "2015-02-15T14:00+01:00"
+	},
+	{
+		"id": "02-08",
+		"amount": -29.32,
+		"balance": 1268.52,
+		"label": "Restaurant",
+		"date": "2015-02-18T13:32+01:00"
+	},
+	{
+		"id": "02-09",
+		"amount": -75.95,
+		"balance": 1192.57,
+		"label": "Courses",
+		"date": "2015-02-20T17:26+01:00"
+	},
+	{
+		"id": "02-10",
+		"amount": -46.25,
+		"balance": 1146.32,
+		"label": "Courses",
+		"date": "2015-02-21T18:52+01:00"
+	},
+	{
+		"id": "02-11",
+		"amount": -156.32,
+		"balance": 990,
+		"label": "Courses",
+		"date": "2015-02-25T19:05+01:00"
+	},
+	{
+		"id": "02-12",
+		"amount": -321.12,
+		"balance": 668.88,
+		"label": "Courses",
+		"date": "2015-02-27T18:26+01:00"
+	},
+	{
+		"id": "02-98",
+		"amount": -668.88,
+		"balance": 0,
+		"label": "Épargne",
+		"date": "2015-02-28T00:00+01:00"
+	},
+	{
+		"id": "02-99",
+		"amount": 2500,
+		"balance": 2500,
+		"label": "Salaire",
+		"date": "2015-02-28T00:00+01:00"
+	},
+	{
+		"id": "03-01",
+		"amount": -32.50,
+		"balance": 2467.50,
+		"label": "Restaurant",
+		"date": "2015-03-04T22:12+01:00"
+	},
+	{
+		"id": "03-02",
+		"amount": -750,
+		"balance": 1717.50,
+		"label": "Loyer",
+		"date": "2015-03-05T08:00+01:00"
+	},
+	{
+		"id": "03-03",
+		"amount": -134.28,
+		"balance": 1583.22,
+		"label": "Impôts",
+		"date": "2015-03-05T08:00+01:00"
+	},
+	{
+		"id": "03-04",
+		"amount": -45.50,
+		"balance": 1537.72,
+		"label": "EDF",
+		"date": "2015-03-05T08:00+01:00"
+	},
+	{
+		"id": "03-05",
+		"amount": -29.99,
+		"balance": 1507.73,
+		"label": "Internet",
+		"date": "2015-03-05T08:00+01:00"
+	},
+	{
+		"id": "03-06",
+		"amount": -19.99,
+		"balance": 1487.74,
+		"label": "Forfait mobile",
+		"date": "2015-03-05T08:00+01:00"
+	},
+	{
+		"id": "03-07",
+		"amount": -50,
+		"balance": 1437.74,
+		"label": "Don",
+		"date": "2015-03-15T14:00+01:00"
+	},
+	{
+		"id": "03-08",
+		"amount": -120.05,
+		"balance": 1317.69,
+		"label": "Courses",
+		"date": "2015-03-16T17:48+01:00"
+	},
+	{
+		"id": "03-09",
+		"amount": -136.62,
+		"balance": 118.07,
+		"label": "Courses",
+		"date": "2015-03-20T18:02+01:00"
+	},
+	{
+		"id": "03-10",
+		"amount": -751.23,
+		"balance": 429.84,
+		"label": "Voyage",
+		"date": "2015-03-22T08:25+01:00"
+	},
+	{
+		"id": "03-11",
+		"amount": -164.85,
+		"balance": 264.99,
+		"label": "Courses",
+		"date": "2015-03-22T14:21+01:00"
+	},
+	{
+		"id": "03-98",
+		"amount": -264.99,
+		"balance": 0,
+		"label": "Épargne",
+		"date": "2015-03-31T00:00+02:00"
+	},
+	{
+		"id": "03-99",
+		"amount": 2500,
+		"balance": 2500,
+		"label": "Salaire",
+		"date": "2015-03-31T00:00+02:00"
+	}
+]
